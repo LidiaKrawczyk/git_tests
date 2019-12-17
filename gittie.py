@@ -6,3 +6,7 @@ if answer = 'y':
     print('przychodzi baba do lekarza a lekarz tez baba')
 else:
     print('bye!')
+a = 56
+b = 78
+c = a*b
+print(c)
