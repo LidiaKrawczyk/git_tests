@@ -1,5 +1,5 @@
 print('Hello!')
-print('Hello gittie!')
+print('Hello gittie! I am trying to learn GIT!')
 
 answer = input('Do you want to hear a joke?')
 if answer = 'y':
